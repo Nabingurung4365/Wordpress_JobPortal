@@ -207,6 +207,6 @@ include get_template_directory().'/inc/theme-customization.php';
 include get_template_directory().'/inc/theme-default-setup.php';
 include get_template_directory().'/inc/class-tgm-plugin-activation.php';
  require( get_template_directory().'/bs4navwalker.php');
- require_once(TEMPLATEPATH . '/functions/cpt-job.php');
+ //require_once(TEMPLATEPATH . '/functions/cpt-job.php');
 
 //?>
